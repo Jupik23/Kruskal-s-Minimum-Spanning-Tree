@@ -1,0 +1,11 @@
+﻿  Funkcje.cpp
+C:\Users\matis\2230d77c-gr14-repoguys\projekt\Project3\Project3\Funkcje.h(77,23): error C2248: "Karta::nazwa": nie można uzyskać dostępu do private składowa zadeklarowanych w klasie "Karta"
+C:\Users\matis\2230d77c-gr14-repoguys\projekt\Project3\Project3\Funkcje.h(66,17): message : zobacz deklarację „Karta::nazwa”
+C:\Users\matis\2230d77c-gr14-repoguys\projekt\Project3\Project3\Funkcje.h(64,7): message : zobacz deklarację „Karta”
+  Źródło.cpp
+C:\Users\matis\2230d77c-gr14-repoguys\projekt\Project3\Project3\Funkcje.h(77,23): error C2248: "Karta::nazwa": nie można uzyskać dostępu do private składowa zadeklarowanych w klasie "Karta"
+C:\Users\matis\2230d77c-gr14-repoguys\projekt\Project3\Project3\Funkcje.h(66,17): message : zobacz deklarację „Karta::nazwa”
+C:\Users\matis\2230d77c-gr14-repoguys\projekt\Project3\Project3\Funkcje.h(64,7): message : zobacz deklarację „Karta”
+C:\Users\matis\2230d77c-gr14-repoguys\projekt\Project3\Project3\Źródło.cpp(12,5): error C2731: "main": funkcja nie może być przeciążona
+C:\Users\matis\2230d77c-gr14-repoguys\projekt\Project3\Project3\Źródło.cpp(12,5): message : zobacz deklarację „main”
+  Generowanie kodu...
